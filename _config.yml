@@ -1,6 +1,6 @@
 title: UCVia
 url: "https://ucvia.github.io"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 
