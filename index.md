@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Sobre este curso
+## 6325: Inteligencia Artificial | 01-2018
 
 <img class="profile-picture" src="sherlock.jpg">
 
