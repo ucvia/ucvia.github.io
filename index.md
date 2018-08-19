@@ -2,26 +2,33 @@
 layout: default
 ---
 
-## About Me
+## Sobre este curso
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Este curso es una introducci\'on a la Inteligencia Artificial, abierto para personas nuevas a esta area de estudio. Tratando temas c\'omo subject 1, subject 2, subject 3. Al finalizar el curso, el estudiante debe estar en la capacidad de comprender los elementos de agentes inteligentes y conceptualizar soluciones a problemas de computaci\'on concretos usando las tecnicas aprendidas.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+El curso contara con [ucv-ia.slack.com](http://ucv-ia.slack.com) como medio de difusion y comunicaciones, recuerda revisar las [preguntas frecuentes](http://google.drive/asdfasd) antes de comenzar usar dicho canal.
 
-## Research Interest
+## Recursos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Presentaciones:
+1. [Introduccion a la inteligencia artificial](slideshare/asdfsadf) 
 
-## Publications
+
+Hojas res\'umen:
+1. Inteligencia artificial
+
+Tutoriales:
+
+
+## Actividades
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+*italics* and something **bold**.
 
 Here is a table
 
