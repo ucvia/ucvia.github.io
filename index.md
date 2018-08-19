@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Sobre este curso
+## Inteligencia Artifical (UCV) | 01-2018
 
 <img class="profile-picture" src="sherlock.jpg">
 
