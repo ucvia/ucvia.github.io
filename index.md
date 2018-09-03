@@ -10,16 +10,13 @@ Este curso es una introducci\'on a la Inteligencia Artificial, abierto para pers
 
 El curso contara con [ucv-ia.slack.com](http://ucv-ia.slack.com) como medio de difusion y comunicaciones, recuerda revisar las [preguntas frecuentes](http://google.drive/asdfasd) antes de comenzar usar dicho canal.
 
-## Recursos
+## Sesiones
 
-Presentaciones:
-1. [Introduccion a la inteligencia artificial](slideshare/asdfsadf) 
+1. Introduccion a la inteligencia artificial.[{presentacion}](slideshare/asdfsadf) [{notas}](github.com/ucvia/6325-course-notes/introduccion.pdf) [{audio}](anchor.com/sdfasdf)
 
 
-Hojas res\'umen:
-1. Inteligencia artificial
 
-Tutoriales:
+## Tutoriales
 
 
 ## Actividades
