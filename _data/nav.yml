@@ -1,8 +1,5 @@
 - name: "Contact"
   link: "contact"
 
-- name: "Resume"
-  link: "resume.pdf"
-
-- name: "About"
-  link: "/researcher/"
+- name: "Nota informativa"
+  link: "https://drive.google.com/open?id=1-EPMhpEw83juRFFTOjFOXdNduJ7ovSCX"
