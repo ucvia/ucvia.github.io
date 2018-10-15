@@ -1,5 +1,5 @@
-- name: "Contact"
+- name: "Contacto"
   link: "contact"
 
 - name: "Nota informativa"
-  link: "https://drive.google.com/open?id=1-EPMhpEw83juRFFTOjFOXdNduJ7ovSCX"
+  link: "/nota_informativa.pdf"
