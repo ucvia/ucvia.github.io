@@ -10,5 +10,5 @@ El curso contara con [ucv-ia.slack.com](http://ucv-ia.slack.com) como medio de d
 
 ## Sesiones
 
-1. Introduccion a la inteligencia artificial.[{presentacion}](slideshare/asdfsadf) [{audio}](anchor.com/sdfasdf)
+1. Introduccion a la inteligencia artificial.[{presentacion}](http://bit.do/ucvia_p1) [{audio(soon)}](anchor.com)
 
