@@ -1,4 +1,4 @@
-# Artificial Intelligence course page
+# Data Mining course page
 
 
 ### License
